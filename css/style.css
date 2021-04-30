@@ -1,0 +1,47 @@
+body {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.3em;
+    font-family: 'Metal Mania';
+}
+
+.panel {
+    height: 100vh;
+}
+
+.line {
+    width: 100%;
+    max-width: 800px;
+    height: 8px;
+    margin: 0 0 10px 0;
+    position: relative;
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.blue {
+    background-color: skyblue;
+    font-family: Freckle Face, serif;
+}
+
+.red {
+    background-color: tomato;
+    font-family: Freckle Face, serif;
+}
+
+.orange {
+    font-family: Freckle Face, serif;
+    background-color: orange;
+}
+
+.purple {
+    background-color: purple;
+    font-family: Freckle Face, serif;
+}
+
+.gray {
+    background-color: gray;
+    font-family: Freckle Face, serif;
+}
